@@ -3,6 +3,7 @@
 
 ### Topic: Facial Recognition
 ### Team Name: Age is just a number
+[Pallavi Madhukar](https://www.linkedin.com/in/pallavimadhukar), [Rachana Chetan](https://www.linkedin.com/in/rachanachetan), [Mohamed Shayan](https://www.linkedin.com/in/mohamed-shayan-22071998), [Supriya Prasad](https://www.linkedin.com/in/sup-prasad/)
 
 ## Project Synopsis:
 Solving cases of missing people are particularly hard. As more years pass and as we age, our face structure changes. Facial recognition is almost impossible here. To combat this, we suggest creating an aged data set from our existing data set of missing subject cases using Generative Adversarial Networks. By simulating aging, we can then compare any photo taken on sighting with this aged data set. If we know the approximate age, we can check only that subset of the aged data set. Otherwise, we can run a search through the entire aged data set. Thus we can recognize subjects real-time whether they have been missing for a few days, or for many years.
